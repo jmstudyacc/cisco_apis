@@ -1,1 +1,7 @@
+
+# removing any files that may be compiled
 */target
+
+# removing any references to .idea
+idea/
+*/idea
