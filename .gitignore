@@ -3,5 +3,5 @@
 */target
 
 # removing any references to .idea
-idea/
-*/idea
+.idea/
+*/.idea
